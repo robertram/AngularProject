@@ -1,0 +1,22 @@
+[ {
+  "apellidos" : "Alfaro Mora",
+  "correo" : "calfaro@gmail.com",
+  "direccion" : "Heredia",
+  "empresa" : "CaAlMo",
+  "nombre" : "Carlos",
+  "telefono" : "8888-1111"
+}, {
+  "apellidos" : "Gomez Soto",
+  "correo" : "cgomez@gmail.com",
+  "direccion" : "Grecia",
+  "empresa" : "Tractores Gomez",
+  "nombre" : "Christian",
+  "telefono" : "8888-2222"
+}, {
+  "apellidos" : "Corrales Jimenez",
+  "correo" : "jcorrales@gmail",
+  "direccion" : "Alajuela",
+  "empresa" : "Corrales SA",
+  "nombre" : "Juan",
+  "telefono" : "8888-3333"
+} ]
